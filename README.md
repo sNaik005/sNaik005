@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Naik</h1>
+<h3 align="center">Backend Developer | Java | Spring Boot | Problem Solver</h3>
 
-<!--
-**sNaik005/sNaik005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://github-readme-stats.vercel.app/api?username=sNaik005&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sNaik005&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sNaik005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### About Me
+- Java backend developer
+- Learning system design, DSA, and clean code
+- Interested in finance, fitness, and guitar
+
+### Skills
+- Java, SQL, Spring Boot
+- REST APIs, JDBC, Hibernate
+- Git, Linux, IntelliJ
+
+### Connect with me
+- [LinkedIn](https://linkedin.com/in/your-link)
+- [Portfolio](https://your-site.com)
+- [Email](mailto:you@example.com)
